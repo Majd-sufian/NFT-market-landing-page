@@ -54,7 +54,7 @@ const SectionWrapper: React.FC<SectionWrapperProps> = ({
           {showBtn && (
             <Button
               assetUrl={assets.expo}
-              link="https://expo.dev/@adrianhajdin/react_native_app?serviceType=classic&distribution=expo-go"
+              link="https://expo.dev/@majd-sufian/pronef?serviceType=classic&distribution=expo-go"
             />
           )}
         </div>
