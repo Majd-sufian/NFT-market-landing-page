@@ -14,14 +14,14 @@ const App: React.FC<{}> = () => {
       />
       <SectionWrapper
         title="Smart User Interface Marketplace"
-        description="Experience a buttery UI of ProNef NFT Marketplace. Smooth constant colors of a fluent UI design."
+        description="Experience a buttery UI of NFT Marketplace. Smooth constant colors of a fluent UI design."
         mockupImg={assets.homeCards}
         reverse
       />
       <Features />
       <SectionWrapper
         title="Deployment"
-        description="ProNef is built using Expo which runs natively on all users' devices. You can easily get your app into people's hands"
+        description="NFT Marketplace is built using Expo which runs natively on all users' devices. You can easily get your app into people's hands"
         mockupImg={assets.feature}
         reverse
       />
