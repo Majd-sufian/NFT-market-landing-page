@@ -7,7 +7,7 @@ const App: React.FC<{}> = () => {
     <>
       <SectionWrapper
         title="You own store of Nifty NFTs. Start Selling & Growing"
-        description="Buy, store, collect NFTS, exchange & earn crypto. Join millions of people using ProNef Marketplace."
+        description="Buy, store, collect NFTS, exchange & earn crypto. Join millions of people using NFTs."
         showBtn
         mockupImg={assets.homeHero}
         banner="banner"
