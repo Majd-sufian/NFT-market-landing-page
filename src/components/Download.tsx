@@ -14,7 +14,18 @@ const Download: React.FC<{}> = () => {
             Get the full source code on GitHub
           </p>
         </div>
-        <button className={styles.btnPrimary}>Source Code</button>
+        <button
+          className={styles.btnPrimary}
+          onClick={() =>
+            window.open(
+              "https://github.com/Majd-sufian/react-native-nft-marketplace",
+              "_blank",
+              "noopener,noreferrer"
+            )
+          }
+        >
+          Source Code
+        </button>
         <div className={styles.flexCenter}>
           <img
             src={assets.scene}
