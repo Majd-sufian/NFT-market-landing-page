@@ -10,11 +10,11 @@ Landing page for the [NFT Marketplace mobile application(Andriod & IOS)](https:/
 
 ### [Live Site for the mobile application(Android & IOS)](https://expo.dev/@majd-sufian/pronef?serviceType=classic&distribution=expo-go)
 
-Tech stack:
+## Tech stack:
 
-React.js
-Typescript
-Tailwind
+- React.js
+- Typescript
+- Tailwind
 
 ## Scripts:
 
