@@ -4,17 +4,17 @@
 
 ## Introduction
 
+Landing page for the [NFT Marketplace mobile application(Andriod & IOS)](https://github.com/Majd-sufian/react-native-nft-marketplace)
+
+### [Live Site for the landing page](https://nft-markeplace.netlify.app/)
+
+### [Live Site for the mobile application(Android & IOS)](https://expo.dev/@majd-sufian/pronef?serviceType=classic&distribution=expo-go)
+
 Tech stack:
 
 React.js
 Typescript
 Tailwind
-
-### [Live Site for the mobile application(Android & IOS)](https://expo.dev/@majd-sufian/pronef?serviceType=classic&distribution=expo-go)
-
-### [Live Site for the landing page](https://nft-markeplace.netlify.app/)
-
-gi
 
 ## Scripts:
 
